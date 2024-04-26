@@ -22,7 +22,7 @@ Here are some ideas to get you started:
    <li><a href="#exploratorydataanalysis">Exploratory Data Analysis</a></li>
    <li><a href="#sentimentanalysis">sentiment analysis</a></li>
    <li><a href="#facedetection">face detection</a></li>
-  <li><a href="#Tableaudashboard">Tableau Dashboard</a></li>
+  <li><a href="#tableaudashboard">Tableau Dashboard</a></li>
 </ul>
 
 <h1><a name="deeplearning">Deep Learning</a></h1>
