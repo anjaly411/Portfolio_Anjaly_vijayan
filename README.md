@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="#deeplearning">Deep Learning</a></li>
    <li><a href="#exploratorydataanalysis">Exploratory Data Analysis</a></li>
-   <li><a href="#sentiment analysis">Natural Language Processing</a></li>
-   <li><a href="#face detection">Facial Recognition</a></li>
+   <li><a href="#sentiment analysis">sentiment analysis</a></li>
+   <li><a href="#face detection">face detection</a></li>
 </ul>
 
 <h1><a name="deeplearning">Deep Learning</a></h1>
