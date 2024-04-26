@@ -22,7 +22,7 @@ Here are some ideas to get you started:
    <li><a href="#exploratorydataanalysis">Exploratory Data Analysis</a></li>
    <li><a href="#sentimentanalysis">sentiment analysis</a></li>
    <li><a href="#facedetection">face detection</a></li>
-  <li><a href="#Tableau Dashboard">Tableau Dashboard</a></li>
+  <li><a href="#Tableaudashboard">Tableau Dashboard</a></li>
 </ul>
 
 <h1><a name="deeplearning">Deep Learning</a></h1>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/Face_Detection">Automated Face Recognition Attendance System👨🏼‍🦱</a><br> | "Automated Face Recognition Attendance System" project develops a face recognition attendance system with features like checking the camera, capturing images, training face recognition models, and logging attendance. It includes functions for real-time face recognition using a webcam, training the recognition model, and capturing images for training. Additionally, it features a graphical admin interface for tasks like recording voice and analyzing emotions. This comprehensive system provides solutions for face recognition-based attendance tracking, making it suitable for various applications.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: os, OpenCV, pandas, numpy, PIL, time, datetime<br></li><li>IDE: PyCharm<br></li></ul></p> |  
 
-<h1><a name="Tableau Dashboard">vedio game dashboard</a></h1>
+<h1><a name="Tableaudashboard">tableau dashboard</a></h1>
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/vedio_game_dashboard">vedio game sales dashboard using tableau</a><br> |.<br></li><li>IDE: Tableau<br></li></ul></p> |  
