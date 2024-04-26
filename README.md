@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Portfolio-Anjaly Vijayan
-<p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. Within these digital pages, you'll find a comprehensive overview of my projects, showcasing my skills and experiences in the realm of data analysis. </p>
+<p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. Within these digital pages, you'll find a comprehensive overview of my projects, showcasing my skills and experiences in the realm of data science. </p>
 <h2>CONTENTS📝</h2>
 <ul>
-  <li><a href="#sql">SQL</a></li>
-   <li><a href="#python">Python</a></li>
-   <li><a href="#powerbi">Power BI</a></li>
-   <li><a href="#tableau">Tableau</a></li>
+  <li><a href="#deeplearning">Deep Learning</a></li>
+   <li><a href="#exploratorydataanalysis">Exploratory Data Analysis</a></li>
+   <li><a href="#naturallanguageprocessing">Natural Language Processing</a></li>
+   <li><a href="#facialrecognition">Facial Recognition</a></li>
 </ul>
 
-<h1><a name="sql">SQL</a></h1>
+<h1><a name="deeplearning">Deep Learning</a></h1>
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/8_Week_SQL_challenge">8 Week SQL challenge🏆</a><br> | "#8WeekSQLChallenge" : Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : PostgreSQL</li></ul></p> | 
+| <a href="https://github.com/anjaly411/Alzheimer-s_disease_detection_using_deep_learning">Alzheimer’s disease, a progressive neurological disorder, significantly impacts the lives of affected individuals and their families. Early and accurate diagnosis is crucial for effective treatment and management.This project proposes a comprehensive approach to Alzheimer’s disease detection using advanced deep learning models and image processing techniques.Although dementia can have many distinct origins,Alzheimer’s disease is the most common type.As the illness wors�ens,it becomes more difficult for a person to do any work without assistance.The ageing population and the time it takes for a diagnosis are predicted to contribute to this frequency to rise. The traditional methods of diagnosing Alzheimer’s are labor-intensive for both patients and physicians,including the retrieval of previous medical data,magnetic resonance imaging scans,and sometimes even neuro physical testing, which can be difficult for patients to undergo.Machine learn�ing models have the potential to improve the diagnosis of AD.In this project,I developed an Alzheimer’s prediction model using the InceptionV3 deep learn�ing architecture.We trained and evaluated our model on a dataset of brain MRI images from patients with AD and healthy controls.The model is trained and val�idated on a carefully curated dataset, demonstrating robustness and efficiency in detecting Alzheimer’s Disease stages:Non-Demented,Very Mild Demented,Mild Demented,and Moderate Demented.Custom callbacks are employed to optimize training,ensuring the model’s accuracy and efficiency.<br><p><ul><li>Tools Used🛠️ : google colab</li></ul></p> | 
 
 <h1><a name="python">Python</a></h1>
 
