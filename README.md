@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="#deeplearning">Deep Learning</a></li>
    <li><a href="#exploratorydataanalysis">Exploratory Data Analysis</a></li>
-   <li><a href="#sentiment analysis">sentiment analysis</a></li>
-   <li><a href="#face detection">face detection</a></li>
+   <li><a href="#sentimentanalysis">sentiment analysis</a></li>
+   <li><a href="#facedetection">face detection</a></li>
   <li><a href="#Tableau Dashboard">Tableau Dashboard</a></li>
 </ul>
 
@@ -37,20 +37,20 @@ Here are some ideas to get you started:
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/DIAMOND-SALES-EDA">Daimond sales EDA</a><br> | The Spotify Data Analysis Project showcases data's role in diverse fields, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores music-related datasets, highlighting data's influence on decisions, research, and prediction, while honing technical skills and industry insights.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
 
-<h1><a name="Sentiment__Analysis">sentiment analysis</a></h1>
+<h1><a name="sentimentanalysis">sentiment analysis</a></h1>
 
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/Sentiment__Analysis">Voice Emotion Analyzer with Sentiment Analysis🎙️</a><br> | "Voice Emotion Analyzer with Sentiment Analysis" implements a Python GUI application called "Admin Home" using Tkinter. It allows users to record and analyze audio files, providing real-time sentiment analysis using the VADER sentiment analyzer from NLTK. Users can record voice input, select audio files for analysis, and view sentiment analysis results categorized as positive, negative, or neutral. The application offers an intuitive interface for recording, selecting, and analyzing audio content.<br><p><ul>Tool used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: mysql.connector, tkinter, sounddevice, scipy.io.wavfile, nltk.sentiment.vader, nltk.tokenize, speech_recognition<br></li><li>IDE: PyCharm<br></li></ul></p>| 
 
 
-<h1><a name="Face_Detection">face detection</a></h1>
+<h1><a name="facedetection">face detection</a></h1>
 
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/Face_Detection">Automated Face Recognition Attendance System👨🏼‍🦱</a><br> | "Automated Face Recognition Attendance System" project develops a face recognition attendance system with features like checking the camera, capturing images, training face recognition models, and logging attendance. It includes functions for real-time face recognition using a webcam, training the recognition model, and capturing images for training. Additionally, it features a graphical admin interface for tasks like recording voice and analyzing emotions. This comprehensive system provides solutions for face recognition-based attendance tracking, making it suitable for various applications.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: os, OpenCV, pandas, numpy, PIL, time, datetime<br></li><li>IDE: PyCharm<br></li></ul></p> |  
 
-<h1><a name="vedio_game_dashboard">vedio game dashboard</a></h1>
+<h1><a name="Tableau Dashboard">vedio game dashboard</a></h1>
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/vedio_game_dashboard">vedio game sales dashboard using tableau</a><br> |.<br></li><li>IDE: Tableau<br></li></ul></p> |  
