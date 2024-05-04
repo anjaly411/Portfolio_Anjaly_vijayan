@@ -55,8 +55,5 @@ Here are some ideas to get you started:
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/anjaly411/vedio_game_dashboard">Vedio Game sales dashboard using Tableau</a><br> | ":Creating a video game sales dashboard using Tableau offered an
-opportunity to visualize and analyze sales data in the gaming industry. By integrating various data sources such as
-sales figures, game titles, platforms, and regions,the dashboard can provide valuable insights into trends, top-selling
-games, and performance across different markets. |  
+| <a href="https://github.com/anjaly411/vedio_game_dashboard">Vedio Game sales dashboard using Tableau</a><br> | ":Creating a video game sales dashboard using Tableau offered an opportunity to visualize and analyze sales data in the gaming industry. By integrating various data sources such as sales figures, game titles, platforms, and regions,the dashboard can provide valuable insights into trends, top-sellinggames, and performance across different markets. |  
 
