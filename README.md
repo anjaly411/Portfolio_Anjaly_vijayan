@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 | ------------ | ------------| 
 | <a href="https://github.com/anjaly411/Alzheimer-s_disease_detection_using_deep_learning">Alzheimer's disease detection using deep learning</a><br> | By taking into account all the potential parameters necessary for illness prediction, the suggested system aims to diagnose Alzheimer’s disease based on the deep learning Inception V3 model with a testing accuracy of 76.72%.<br></li><li>IDE: google colab<br></li></ul></p> |
 
+| <a href="https://github.com/anjaly411/Stock-Price-Prediction-using-Deep-Learning">Stock prediction using Deep learning</a><br> | By taking into account all the potential parameters necessary for illness prediction, the suggested system aims to diagnose Alzheimer’s disease based on the deep learning Inception V3 model with a testing accuracy of 76.72%.<br></li><li>IDE: google colab<br></li></ul></p> |
+
 <h1><a name="exploratorydataanalysis">exploratory data analysis</a></h1>
 
 | Project Link | Description |
